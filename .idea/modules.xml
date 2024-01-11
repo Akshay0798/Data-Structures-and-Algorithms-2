@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Trees/AVL Tree/AVL Tree.iml" filepath="$PROJECT_DIR$/Trees/AVL Tree/AVL Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Binary Search Tree/Binary Search Tree.iml" filepath="$PROJECT_DIR$/Trees/Binary Search Tree/Binary Search Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Binary Tree/Binary Tree.iml" filepath="$PROJECT_DIR$/Trees/Binary Tree/Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/Circuler LL/Circuler LL.iml" filepath="$PROJECT_DIR$/Linked List/Circuler LL/Circuler LL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Data-structure-and-Algorithm-2.iml" filepath="$PROJECT_DIR$/.idea/Data-structure-and-Algorithm-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack and Queue/Deque/Deque.iml" filepath="$PROJECT_DIR$/Stack and Queue/Deque/Deque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/Doubly LL/Doubly LL.iml" filepath="$PROJECT_DIR$/Linked List/Doubly LL/Doubly LL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/LL Questions/LL Questions.iml" filepath="$PROJECT_DIR$/Linked List/LL Questions/LL Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/Linked List.iml" filepath="$PROJECT_DIR$/Linked List/Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Que BFS/Que BFS.iml" filepath="$PROJECT_DIR$/Trees/Que BFS/Que BFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Que DFS/Que DFS.iml" filepath="$PROJECT_DIR$/Trees/Que DFS/Que DFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack and Queue/Queue/Queue.iml" filepath="$PROJECT_DIR$/Stack and Queue/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Segment tree/Segment tree.iml" filepath="$PROJECT_DIR$/Trees/Segment tree/Segment tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/Single LL/Single LL.iml" filepath="$PROJECT_DIR$/Linked List/Single LL/Single LL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack and Queue/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack and Queue/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack and Queue/Stack and Queue.iml" filepath="$PROJECT_DIR$/Stack and Queue/Stack and Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack and Queue Que/Stack and Queue Que.iml" filepath="$PROJECT_DIR$/Stack and Queue Que/Stack and Queue Que.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees 2/Trees 2.iml" filepath="$PROJECT_DIR$/Trees 2/Trees 2.iml" />
+    </modules>
+  </component>
+</project>
