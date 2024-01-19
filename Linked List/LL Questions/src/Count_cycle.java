@@ -1,6 +1,6 @@
 //Q: find length of cycle
 public class Count_cycle {
-    class ListNode {
+    static class ListNode {
         int val;
         ListNode next;
 
@@ -10,7 +10,7 @@ public class Count_cycle {
         }
     }
 
-    class Solution {
+    static class Solution {
         public int lengthCycle(ListNode head) {
             ListNode fast = head;
             ListNode slow = head;
@@ -35,11 +35,11 @@ public class Count_cycle {
 
     public static void main(String[] args) {
         Count_cycle countCycle = new Count_cycle();
-        ListNode head = countCycle.new ListNode(1);
-        ListNode second = countCycle.new ListNode(2);
-        ListNode third = countCycle.new ListNode(3);
-        ListNode fourth = countCycle.new ListNode(4);
-        ListNode fifth = countCycle.new ListNode(5);
+        ListNode head = new ListNode(1);
+        ListNode second = new ListNode(2);
+        ListNode third = new ListNode(3);
+        ListNode fourth = new ListNode(4);
+        ListNode fifth = new ListNode(5);
 
         head.next = second;
         second.next = third;
@@ -47,7 +47,7 @@ public class Count_cycle {
         fourth.next = fifth;
         fifth.next = second; // creating a cycle
 
-        Solution solution = countCycle.new Solution();
+        Solution solution = new Solution();
         int cycleLength = solution.lengthCycle(head);
         System.out.println("Length of the cycle: " + cycleLength);
     }

@@ -6,7 +6,7 @@ public class MiniParenthesisValid {
         Stack<Character> stack = new Stack<>();
         for (char ch : s.toCharArray()) {
             if (ch == ')') { //If the character is a closing parenthesis
-                if (!stack.isEmpty() && stack.peek() == '(') { // If the stack is not empty and the top element is an opening parenthesis
+                if (!stack.isEmpty() && stack.peek() == '(') { // If the stack is not empty, and the top element is an opening parenthesis
                     stack.pop();// Match found, remove the opening parenthesis from the stack
                 } else {
                     stack.push(ch);  // No matching opening parenthesis found, add the closing parenthesis to the stack
